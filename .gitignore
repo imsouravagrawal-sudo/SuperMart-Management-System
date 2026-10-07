@@ -1,0 +1,4 @@
+﻿__pycache__/
+*.pyc
+.vscode/
+activity_log.txt
